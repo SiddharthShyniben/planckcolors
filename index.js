@@ -1,1 +1,1 @@
-let p=['black','red','green','yellow','blue','magenta','cyan','white'],x={},q=['reset','bold','dim','italic','underline','blink',,'reverse','hide','strike'],s=(S='',A=30,T=p)=>T.map((a,i)=>x[a+S]=t=>`\x1b[${i+A}${B}m${t}\x1b[0m`)&&s;s()('Bg',40)('',0,q);export default x;
+let x={},s=(S='',A=30,T=['black','red','green','yellow','blue','magenta','cyan','white'])=>T.map((a,i)=>x[a+S]=t=>`\x1b[${i+A}m${t}\x1b[0m`)&&s;s()('Bg',40)('',0,['reset','bold','dim','italic','underline','blink',,'reverse','hide','strike']);export default x;
