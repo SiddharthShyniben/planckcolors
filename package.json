@@ -1,5 +1,5 @@
 {
-	"name": "nanocolor",
+	"name": "planckcolors",
 	"version": "1.0.0",
 	"description": "Possibly the smallest color library ever",
 	"main": "index.js",
