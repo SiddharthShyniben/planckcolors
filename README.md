@@ -1,6 +1,6 @@
 # planckcolors
 
-Possibly the tiniest color library ever. 27 styles in barely 199 bytes of minified, gzipped, golfed, no dependency code.
+Possibly the tiniest color library ever. 27 styles in barely 192 bytes of minified, gzipped, golfed, no dependency code.
 
 ```javascript
 import color from 'nanocolor';
