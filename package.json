@@ -1,6 +1,6 @@
 {
 	"name": "planckcolors",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"description": "Possibly the smallest color library ever",
 	"main": "index.js",
 	"scripts": {},
@@ -24,8 +24,10 @@
 	"devDependencies": {
 		"@size-limit/preset-small-lib": "^7.0.8"
 	},
-	"size-limit": [{
-		"path": "index.js",
-		"limit": "325 b"
-	}]
+	"size-limit": [
+		{
+			"path": "index.js",
+			"limit": "325 b"
+		}
+	]
 }
