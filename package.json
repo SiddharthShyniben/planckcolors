@@ -1,0 +1,20 @@
+{
+  "name": "nanocolor",
+  "version": "1.0.0",
+  "description": "Possibly the smallest color library ever",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiddharthShyniben/nanocolor.git"
+  },
+  "keywords": [
+    "color"
+  ],
+  "author": "Siddharth Shyniben <siddharth.muscat@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/SiddharthShyniben/nanocolor/issues"
+  },
+  "homepage": "https://github.com/SiddharthShyniben/nanocolor#readme"
+}
