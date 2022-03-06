@@ -18,5 +18,14 @@
 	},
 	"homepage": "https://github.com/SiddharthShyniben/nanocolor#readme",
 	"type": "module",
-	"files": ["index.js"]
+	"files": [
+		"index.js"
+	],
+	"devDependencies": {
+		"@size-limit/preset-small-lib": "^7.0.8"
+	},
+	"size-limit": [{
+		"path": "index.js",
+		"limit": "325 b"
+	}]
 }
