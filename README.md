@@ -42,3 +42,7 @@ These additional styles are supported:
 - reverse
 - hide
 - strike
+
+## Credits
+
+Thanks to [@Posandu](https://github.com/Posandu) for various improvements and ideas.
