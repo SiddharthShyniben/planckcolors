@@ -1,3 +1,5 @@
 import c from'./index.js';
-console.log(Object.keys(c).map(k=>c[k](k)).join`\n`);
-console.log(Object.keys(c).map(k=>c[k](Object.keys(c).map(l=>c[l]('#')).join(''))).join`\n`)
+Object.keys(c).map(k => {
+	console.log(k, c[k](k));
+})
+console.log(Object.keys(c).length, 'styles')
