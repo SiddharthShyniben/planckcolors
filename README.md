@@ -2,7 +2,7 @@
 
 [![Bundlephobia](https://badgen.net/bundlephobia/minzip/planckcolors)](https://bundlephobia.com/package/planckcolors)
 
-Possibly the tiniest color library ever. 42 styles in barely 179 bytes of minified, gzipped, golfed, no dependency code.
+Possibly the tiniest color library ever. 42 styles in barely 188 bytes of minified, gzipped, golfed, no dependency code. **That's 4.5 bytes per style.**
 
 ```javascript
 import color from 'nanocolor';
