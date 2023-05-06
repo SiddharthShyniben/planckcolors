@@ -1,12 +1,12 @@
 {
 	"name": "planckcolors",
-	"version": "1.2.0",
+	"version": "1.3.0",
 	"description": "Possibly the smallest color library ever",
 	"main": "index.js",
 	"scripts": {},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/SiddharthShyniben/nanocolor.git"
+		"url": "git+https://github.com/SiddharthShyniben/planckcolors.git"
 	},
 	"keywords": [
 		"color"
@@ -14,9 +14,9 @@
 	"author": "Siddharth Shyniben <siddharth.muscat@gmail.com>",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url": "https://github.com/SiddharthShyniben/nanocolor/issues"
+		"url": "https://github.com/SiddharthShyniben/planckcolors/issues"
 	},
-	"homepage": "https://github.com/SiddharthShyniben/nanocolor#readme",
+	"homepage": "https://github.com/SiddharthShyniben/planckcolors#readme",
 	"type": "module",
 	"files": [
 		"index.js"
